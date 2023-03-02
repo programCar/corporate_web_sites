@@ -20,7 +20,7 @@
             <a href="login.jsp">请登录</a>新用户!<a href="#">[账号注册]</a>
         </div>
 
-        <div class="div₋03">A 公司门户网站LOGO</div>
+        <div class="div_03"><img src="img/chicken.png"></div>
 
     <div class="div_04">
     <a href="#">首页</a>&nbsp;|&nbsp;
