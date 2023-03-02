@@ -1,0 +1,131 @@
+body {
+    width:1100px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.div_01{
+    background—color:#aaaaaa;
+    border:2px solid #888888;
+}
+.div_02{
+    text-align:right;
+}
+.div_03{
+    text-align:left;
+    font-size:30pt;
+    font-weight:bold;
+}
+.div_04{
+    padding-top:20px;
+    text-align:center;
+}
+.div_04 a:link {
+    font-size: 15pt;
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION: none;
+}
+.div_02 a {
+    font-size: 15pt;
+    color: red;
+    font-family: 宋体;
+    text-decoration: underline;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+.div_05{
+    float:left;
+    width:190px;
+    height:510px;
+    border:solid #eeeeee;
+    margin-top:10px;
+    line-height:30px;
+    background-color:#eeeeee;
+}
+.div_05_01 {
+    width: 180px;
+    height: 30px;
+    background-color: #888888;
+    left: 50%;
+    top: 50%;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: #eeeeee;
+    font-weight: bold;
+}
+.div_05 li {
+    list-style-image: url("#");
+    margin-bottom: 2px;
+}
+.div_05_02{
+    border:1px solid #bbbbbb;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:10px;
+}
+.div_06 {
+    float: left;
+    margin-top: 10px;
+    margin—left: 28px;
+    width: 650px;
+}
+.div_06_01 {
+    background-color: #888888;
+}
+.div_07 {
+    float: right;
+    width: 190px;
+    height: 510px;
+    border: solid #eeeeee;
+    background—color: #eeeeee;
+    margin-top: -198px;
+}
+.div_07_01 {
+    width: 180px;
+    height: 25px;
+    background—color: #888888;
+    left: 50%;
+    top: 50%;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: #eeeeee;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.div_07 li{
+    list—style—image: url("#");
+    margin-bottom:2px;
+}
+.div_07_02 {
+    border: 1px solid #bbbbbb;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.div_07_03 {
+    display: inline-block;
+    vertical—align: top;
+    font-size: 18pt;
+    line-height: 20px;
+}
+.div_07_04 {
+    text-align: left;
+    font-size: 10pt;
+    font-family: cursive;
+    line-height: 22pt;
+}
+.div_08 {
+    background-color: #aaaaaa;
+    border: 2px solid #888888;
+    width: 1100px;
+    margin-top: 509px;
+}
+.div_08a {
+    font-family: 宋体;
+    text-align: left;
+    text-decoration: underline;
+    TEXT-DECORATION: none;
+}
