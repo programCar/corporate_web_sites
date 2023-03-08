@@ -1,9 +1,13 @@
 <%--
   Created by IntelliJ IDEA.
-  User: YYY
+  User: Chengxumiao
   Date: 2023/3/1
   Time: 22:34
   To change this template use File | Settings | File Templates.
+
+
+  说明：
+      此页面为此项目的首页页面展示的中部部分
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language = "java" %>
 <html>
@@ -13,6 +17,7 @@
   </head>
   <body>
 
+  <!--首页页面展示的头部-->
   <jsp:include page="head.jsp"/>
 
   <div class="div_05">
@@ -112,7 +117,7 @@
 
 
   </div>
-
+  <!--首页页面展示的底部-->
   <jsp:include page="foot.jsp"/>
 
   </body>

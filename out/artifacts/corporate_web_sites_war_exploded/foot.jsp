@@ -1,9 +1,13 @@
 <%--
   Created by IntelliJ IDEA.
-  User: YYY
+  User: Chengxumiao
   Date: 2023/3/1
   Time: 22:52
   To change this template use File | Settings | File Templates.
+
+
+  说明：
+      此页面为首页页面展示的底部部分
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>

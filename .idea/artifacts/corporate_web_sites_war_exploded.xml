@@ -2,12 +2,23 @@
   <artifact type="exploded-war" name="corporate_web_sites:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/corporate_web_sites_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="corporate_web_sites/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="corporate_web_sites" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: commons-dbutils:commons-dbutils:1.6" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.6" />
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.32" />
+          <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
+          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.21.9" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery:3.6.3" />
+        </element>
       </element>
+      <element id="javaee-facet-resources" facet="corporate_web_sites/web/Web" />
     </root>
   </artifact>
 </component>
